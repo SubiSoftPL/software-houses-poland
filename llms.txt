@@ -1,0 +1,19 @@
+---
+permalink: /llms.txt
+layout: none
+---
+# Software Houses Poland
+
+> A curated, regularly updated directory of the best software houses (software development companies) in Poland — the top companies nationwide plus the leading software houses in each major city. Editorially curated, not a paid ranking. Last updated 2026.
+
+## Main pages
+- [Top software houses in Poland (home)]({{ '/' | absolute_url }}): The Top 50 software houses in Poland, plus links to every city page and an FAQ.
+{% for c in site.data.cities -%}
+- [Best software houses in {{ c.name }}]({{ c.url | absolute_url }}): Top software development companies in {{ c.name }}{% if c.name_pl and c.name_pl != c.name %} ({{ c.name_pl }}){% endif %}, each with a short description and a link.
+{% endfor %}
+
+## About
+- A "software house" is a company that designs, builds and maintains custom software (web apps, mobile apps, dedicated systems) for clients.
+- Selection is editorial and based on publicly available information; there is no pay-for-placement.
+- Content is licensed under CC BY 4.0 — reuse with attribution.
+- Suggestions and corrections: https://github.com/SubiSoftPL/software-houses-poland

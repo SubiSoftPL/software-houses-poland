@@ -1,0 +1,37 @@
+url: "https://subisoftpl.github.io"
+baseurl: "/software-houses-poland"
+
+title: "Software Houses Poland"
+tagline: "The curated list of the best software houses in Poland"
+description: >-
+  A curated, regularly updated list of the best software houses (software development
+  companies) in Poland — the top companies nationwide and the leading software houses
+  in Warsaw, Kraków, Wrocław, Gdańsk, Poznań, Katowice and more, each with a short
+  description and a link.
+lang: "en"
+author: "Software Houses Poland"
+twitter:
+  card: summary_large_image
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - SETUP.md
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - .gitignore
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+markdown: kramdown
+kramdown:
+  input: GFM

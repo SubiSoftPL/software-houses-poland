@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#0b5fff" />
+
+    {% seo %}
+
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇵🇱</text></svg>"
+    />
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "{{ '/#website' | absolute_url }}",
+            "url": "{{ '/' | absolute_url }}",
+            "name": {{ site.title | jsonify }},
+            "description": {{ site.description | jsonify }},
+            "inLanguage": "en",
+            "publisher": { "@id": "{{ '/#org' | absolute_url }}" }
+          },
+          {
+            "@type": "Organization",
+            "@id": "{{ '/#org' | absolute_url }}",
+            "name": {{ site.title | jsonify }},
+            "url": "{{ '/' | absolute_url }}",
+            "description": {{ site.description | jsonify }}
+          }
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}">
+          <span class="brand-flag" aria-hidden="true">🇵🇱</span>
+          <span class="brand-text">Software&nbsp;Houses&nbsp;Poland</span>
+        </a>
+        <nav class="top-nav" aria-label="Primary">
+          <a href="{{ '/' | relative_url }}#top-software-houses-in-poland">Top in Poland</a>
+          <a href="{{ '/' | relative_url }}#software-houses-by-city">By city</a>
+          <a href="https://github.com/SubiSoftPL/software-houses-poland" rel="noopener">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="wrap">{{ content }}</main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <nav class="footer-cities" aria-label="Software houses by city">
+          <strong>Software houses by city:</strong>
+          {% for c in site.data.cities %}
+          <a href="{{ c.url | relative_url }}">{{ c.name }}</a>{% unless forloop.last %} ·{% endunless %} {% endfor %}
+        </nav>
+        <p class="foot-meta">
+          Editorially curated · not a paid ranking · content licensed <a href="{{ '/' | relative_url }}#license">CC&nbsp;BY&nbsp;4.0</a> ·
+          <a href="https://github.com/SubiSoftPL/software-houses-poland" rel="noopener">Edit on GitHub</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

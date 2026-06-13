@@ -1,0 +1,43 @@
+- name: "Warsaw"
+  name_pl: "Warszawa"
+  url: "/software-house-warsaw/"
+
+- name: "Kraków"
+  name_pl: "Kraków"
+  url: "/software-house-krakow/"
+
+- name: "Wrocław"
+  name_pl: "Wrocław"
+  url: "/software-house-wroclaw/"
+
+- name: "Tricity"
+  name_pl: "Trójmiasto (Gdańsk · Gdynia · Sopot)"
+  url: "/software-house-tricity/"
+
+- name: "Poznań"
+  name_pl: "Poznań"
+  url: "/software-house-poznan/"
+
+- name: "Katowice"
+  name_pl: "Katowice (Śląsk)"
+  url: "/software-house-katowice/"
+
+- name: "Częstochowa"
+  name_pl: "Częstochowa"
+  url: "/software-house-czestochowa/"
+
+- name: "Łódź"
+  name_pl: "Łódź"
+  url: "/software-house-lodz/"
+
+- name: "Lublin"
+  name_pl: "Lublin"
+  url: "/software-house-lublin/"
+
+- name: "Rzeszów"
+  name_pl: "Rzeszów"
+  url: "/software-house-rzeszow/"
+
+- name: "Szczecin"
+  name_pl: "Szczecin"
+  url: "/software-house-szczecin/"

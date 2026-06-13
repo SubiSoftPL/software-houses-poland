@@ -1,0 +1,62 @@
+---
+layout: city
+permalink: /software-house-tricity/
+title: "Best Software Houses in the Tricity (2026) — Gdańsk, Gdynia & Sopot"
+h1: "Best Software Houses in the Tricity (Gdańsk · Gdynia · Sopot)"
+city: "Tricity"
+city_pl: "Trójmiasto"
+description: "A curated list of the best software houses in the Tricity — top software development companies in Gdańsk, Gdynia and Sopot, each with what they do and a link."
+updated: 2026-06-13
+intro: >
+  The Tricity — Gdańsk, Gdynia and Sopot — is one of Poland's fastest-growing technology regions on
+  the Baltic coast, with a strong fintech, AI and maritime-tech scene and major R&D centres. Below are
+  the leading software houses in the Tricity building web, mobile and AI products for clients worldwide.
+companies:
+  - name: "Jit Team"
+    url: "https://jit.team"
+    description: "Team-extension and software delivery for banking, fintech and insurance."
+    location: "Gdynia"
+  - name: "DeSmart"
+    url: "https://desmart.com"
+    description: "Web and mobile application development with 18+ years' experience."
+    location: "Gdańsk"
+  - name: "Bright Inventions"
+    url: "https://brightinventions.pl"
+    description: "Web, mobile, blockchain and IoT software development."
+    location: "Gdańsk"
+  - name: "Neoteric"
+    url: "https://neoteric.eu"
+    description: "AI, machine learning and business-automation software."
+    location: "Gdańsk"
+  - name: "DLabs.AI"
+    url: "https://dlabs.ai"
+    description: "AI and machine-learning software development."
+    location: "Gdańsk"
+  - name: "Scalac"
+    url: "https://scalac.io"
+    description: "Scala, functional programming, fintech and big-data systems."
+    location: "Gdańsk"
+  - name: "Solwit"
+    url: "https://solwit.com"
+    description: "Embedded systems, AI and web/mobile software, including automotive."
+    location: "Gdańsk"
+  - name: "Speednet"
+    url: "https://speednet.pl"
+    description: "Web and mobile development, fintech and IT outsourcing."
+    location: "Gdańsk"
+  - name: "Nordcloud, an IBM Company"
+    url: "https://nordcloud.com"
+    description: "Cloud-native software development and consulting, with strong roots in Gdańsk."
+    location: "Gdańsk"
+  - name: "Goyello"
+    url: "https://goyello.com"
+    description: "Agile web and mobile software development (an Aspire Systems company)."
+    location: "Gdańsk"
+faqs:
+  - q: "What is a software house in the Tricity (Trójmiasto)?"
+    a: "A software house in the Tricity is a company in Gdańsk, Gdynia or Sopot that designs and builds custom software, web and mobile apps for clients. The region has a fast-growing tech scene with particular strength in fintech, AI and maritime tech."
+  - q: "How much does it cost to hire a software house in Gdańsk?"
+    a: "Tricity rates are competitive with other major Polish hubs and well below Western Europe — mid-to-senior developers commonly **€40–€85 / hour** depending on technology and seniority. Request a tailored quote."
+  - q: "How do I choose the best software house in the Tricity?"
+    a: "Match the company's domain and tech stack to your project, review case studies and references, confirm seniority and communication, and start with a small paid discovery phase before full delivery."
+---
