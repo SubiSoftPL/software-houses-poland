@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-tricity/
-title: "Best Software Houses in the Tricity (2026) — Gdańsk, Gdynia & Sopot"
+title: "Best Software Houses in Tricity / Gdańsk (2026)"
 h1: "Best Software Houses in the Tricity (Gdańsk · Gdynia · Sopot)"
 city: "Tricity"
 city_pl: "Trójmiasto"
-description: "A curated list of the best software houses in the Tricity — top software development companies in Gdańsk, Gdynia and Sopot, each with what they do and a link."
+description: "The best software houses in the Tricity — 10 top software development companies in Gdańsk, Gdynia and Sopot, with what they do and a link."
 updated: 2026-06-13
 intro: >
   The Tricity — Gdańsk, Gdynia and Sopot — is one of Poland's fastest-growing technology regions on

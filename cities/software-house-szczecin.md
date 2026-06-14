@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-szczecin/
-title: "Best Software Houses in Szczecin (2026) — Top Software Development Companies"
+title: "Best Software Houses in Szczecin (2026) — Top 10"
 h1: "Best Software Houses in Szczecin"
 city: "Szczecin"
 city_pl: "Szczecin"
-description: "A curated list of the best software houses in Szczecin — top software development companies in north-western Poland, close to the German border, each with what they do and a link."
+description: "The best software houses in Szczecin — 10 top software development companies near the German border, with what they do and a link."
 updated: 2026-06-13
 intro: >
   Szczecin, in north-western Poland near the German border, has a developing IT scene and is a popular

@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-lublin/
-title: "Best Software Houses in Lublin (2026) — Top Software Development Companies"
+title: "Best Software Houses in Lublin (2026) — Top 10"
 h1: "Best Software Houses in Lublin"
 city: "Lublin"
 city_pl: "Lublin"
-description: "A curated list of the best software houses in Lublin — top software development companies in eastern Poland, each with what they do and a link."
+description: "The best software houses in Lublin — 10 top software development companies in eastern Poland's IT hub, with what they do and a link."
 updated: 2026-06-13
 intro: >
   Lublin is the largest city in eastern Poland and a rising IT hub, with strong universities feeding a

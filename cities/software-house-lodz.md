@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-lodz/
-title: "Best Software Houses in Łódź (2026) — Top Software Development Companies"
+title: "Best Software Houses in Łódź (2026) — Top 10"
 h1: "Best Software Houses in Łódź"
 city: "Łódź"
 city_pl: "Łódź"
-description: "A curated list of the best software houses in Łódź — top software development companies in central Poland, each with what they do and a link."
+description: "The best software houses in Łódź — 10 top software development companies in central Poland, each with what they do and a link."
 updated: 2026-06-13
 intro: >
   Łódź, in the centre of Poland, has a growing IT scene, a large student population and competitive

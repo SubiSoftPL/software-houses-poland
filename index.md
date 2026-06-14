@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Best Software Houses in Poland (2026) — Top Software Development Companies by City"
-description: "A curated list of the best software houses in Poland — the top software development companies nationwide and the leading software houses in Warsaw, Kraków, Wrocław, Gdańsk, Poznań, Katowice and more, each with a short description and a link."
+title: "Best Software Houses in Poland (2026) — Top 50 by City"
+description: "Curated directory of the best software houses in Poland — the top 50 nationwide plus leading software development companies by city: Warsaw, Kraków, Wrocław."
 permalink: /
 ---
 

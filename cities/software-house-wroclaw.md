@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-wroclaw/
-title: "Best Software Houses in Wrocław (2026) — Top Software Development Companies"
+title: "Best Software Houses in Wrocław (2026) — Top 10"
 h1: "Best Software Houses in Wrocław"
 city: "Wrocław"
 city_pl: "Wrocław"
-description: "A curated list of the best software houses in Wrocław — top software development companies in one of Poland's fastest-growing tech cities, each with what they do and a link."
+description: "The best software houses in Wrocław — 10 top software development companies in one of Poland's fastest-growing tech cities, with a link each."
 updated: 2026-06-13
 intro: >
   Wrocław is a fast-growing tech city and home to many product-focused software houses and global

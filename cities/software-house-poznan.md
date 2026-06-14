@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-poznan/
-title: "Best Software Houses in Poznań (2026) — Top Software Development Companies"
+title: "Best Software Houses in Poznań (2026) — Top 10"
 h1: "Best Software Houses in Poznań"
 city: "Poznań"
 city_pl: "Poznań"
-description: "A curated list of the best software houses in Poznań — top software development companies in a city with a strong engineering tradition, each with what they do and a link."
+description: "The best software houses in Poznań — 10 top software development companies in a major Polish engineering hub, with what they do and a link."
 updated: 2026-06-13
 intro: >
   Poznań has a strong software-engineering tradition and is the home base of several of Poland's

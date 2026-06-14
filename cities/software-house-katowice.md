@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-katowice/
-title: "Best Software Houses in Katowice & Silesia (2026) — Top Software Development Companies"
+title: "Best Software Houses in Katowice & Silesia (2026)"
 h1: "Best Software Houses in Katowice (Silesia)"
 city: "Katowice"
 city_pl: "Katowice (Śląsk)"
-description: "A curated list of the best software houses in Katowice and the Silesia metropolis (incl. Gliwice) — top software development companies, each with what they do and a link."
+description: "The best software houses in Katowice and Silesia — 10 top software development companies, including Gliwice, with what they do and a link."
 updated: 2026-06-13
 intro: >
   Katowice and the surrounding Silesia metropolis — including Gliwice, Bielsko-Biała and Sosnowiec —

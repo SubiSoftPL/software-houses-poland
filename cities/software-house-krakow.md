@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-krakow/
-title: "Best Software Houses in Kraków (2026) — Top Software Development Companies"
+title: "Best Software Houses in Kraków (2026) — Top 10"
 h1: "Best Software Houses in Kraków"
 city: "Kraków"
 city_pl: "Kraków"
-description: "A curated list of the best software houses in Kraków — top software development companies in one of Poland's premier tech and outsourcing centres, each with what they do and a link."
+description: "The best software houses in Kraków — 10 top software development companies in one of Poland's biggest tech hubs, with what they do and a link."
 updated: 2026-06-13
 intro: >
   Kraków is one of Poland's premier technology and outsourcing centres, with a large pool of

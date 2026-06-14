@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-rzeszow/
-title: "Best Software Houses in Rzeszów (2026) — Top Software Development Companies"
+title: "Best Software Houses in Rzeszów (2026) — Top 10"
 h1: "Best Software Houses in Rzeszów"
 city: "Rzeszów"
 city_pl: "Rzeszów"
-description: "A curated list of the best software houses in Rzeszów — top software development companies in south-eastern Poland's growing tech hub, each with what they do and a link."
+description: "The best software houses in Rzeszów — 10 top software development companies in south-east Poland (home of Asseco), with a link each."
 updated: 2026-06-13
 intro: >
   Rzeszów, in south-eastern Poland, is sometimes called the country's "aviation valley" and has become a

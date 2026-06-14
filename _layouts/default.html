@@ -6,7 +6,8 @@
     <meta name="color-scheme" content="light dark" />
     <meta name="theme-color" content="#0b5fff" />
 
-    {% seo %}
+    {% seo title=false %}
+    <title>{{ page.title | default: site.title | escape }}</title>
 
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
 

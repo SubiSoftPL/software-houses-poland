@@ -1,11 +1,11 @@
 ---
 layout: city
 permalink: /software-house-warsaw/
-title: "Best Software Houses in Warsaw (2026) — Top Software Development Companies"
+title: "Best Software Houses in Warsaw (Warszawa) — Top 10"
 h1: "Best Software Houses in Warsaw (Warszawa)"
 city: "Warsaw"
 city_pl: "Warszawa"
-description: "A curated list of the best software houses in Warsaw (Warszawa) — the top software development companies in Poland's largest IT hub, each with what they do and a link."
+description: "The best software houses in Warsaw (Warszawa) — 10 top software development companies in Poland's largest IT hub, with what they do and a link."
 updated: 2026-06-13
 intro: >
   Warsaw (Warszawa) is Poland's capital and largest technology hub, with the country's biggest
