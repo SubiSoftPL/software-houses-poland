@@ -6,7 +6,7 @@ h1: "Best Software Houses in Kraków"
 city: "Kraków"
 city_pl: "Kraków"
 description: "The best software houses in Kraków — 10 top software development companies in one of Poland's biggest tech hubs, with what they do and a link."
-updated: 2026-06-13
+updated: 2026-10-10
 intro: >
   Kraków is one of Poland's premier technology and outsourcing centres, with a large pool of
   engineers and many global R&D offices. Below are leading software houses in Kraków building
@@ -42,6 +42,9 @@ companies:
   - name: "Ailleron"
     url: "https://ailleron.com"
     description: "Fintech and enterprise software building digital banking and customer-engagement platforms."
+  - name: "desi9n.pl"
+    url: "https://desi9n.pl"
+    description: "Small Kraków team (since 2008) building PHP/Laravel and Vue.js web applications, API integrations, takeovers of existing systems and manual WCAG audits."
 faqs:
   - q: "What is a software house in Kraków?"
     a: "A software house in Kraków is a company that builds custom software, web and mobile applications for clients. Kraków is one of Poland's largest engineering and IT-outsourcing hubs, with a deep talent pool."
