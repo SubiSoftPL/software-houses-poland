@@ -6,7 +6,7 @@ h1: "Best Software Houses in Poznań"
 city: "Poznań"
 city_pl: "Poznań"
 description: "The best software houses in Poznań — 10 top software development companies in a major Polish engineering hub, with what they do and a link."
-updated: 2026-06-13
+updated: 2026-11-03
 intro: >
   Poznań has a strong software-engineering tradition and is the home base of several of Poland's
   best-known software houses. Below are leading software development companies in Poznań building
@@ -42,6 +42,9 @@ companies:
   - name: "Bitnoise"
     url: "https://bitnoise.pl"
     description: "Web, frontend and UI/UX-focused software development."
+  - name: "Studio201"
+    url: "https://studio201.io"
+    description: "Custom web and mobile apps, e-commerce and AI integrations for B2B and B2C companies; projects start with a clickable prototype, with experience in HIPAA-compliant medical software."
 faqs:
   - q: "What is a software house in Poznań?"
     a: "A software house in Poznań is a company that builds custom software, web and mobile applications for clients. Poznań is home to several of Poland's most established product software houses."
